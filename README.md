@@ -21,3 +21,8 @@ Luego abre `http://localhost:8000/webpage/`. También puedes abrir `index.html` 
 - `images/`: imágenes presentes en la página.
 
 La sección de contacto no incluye teléfono ni correo porque esos datos se actualizan en la página real, esto es solamente una muestra.
+
+Puede ver la página en la siguiente dirección:
+[https://harrueds.github.io/mactba](https://harrueds.github.io/mactba)
+
+Es solamente una maqueta de muestra, no es la página real de la empresa.
